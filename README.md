@@ -1,6 +1,6 @@
 # README #
 
-ThoughtWorks Coding Assignment Solution for Problem Two:  Conference Track Management
+Redacted Coding Assignment Solution for Problem Two:  Conference Track Management
 
 Author:  **REDACTED**
 
